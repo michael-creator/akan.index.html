@@ -1,0 +1,13 @@
+body {
+    background-color:#68b3ac
+ }
+ h1 {
+     text-align: center;
+     font-size: 50px;
+     color:steelblue
+ }
+ form {
+     margin: 20px auto
+     width: 320px;
+     text-align: center;
+     color: steelblue;
