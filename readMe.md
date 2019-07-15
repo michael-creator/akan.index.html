@@ -13,10 +13,10 @@ after installing access the setup for it to configure its settings to your compu
 ## Known Bugs
 none so far
 ## Technologies Used
-HTML
-CSS
-BOOTSTRAP
-JavaScript
+HTML,
+CSS,
+BOOTSTRAP,
+JavaScript,
 
 ## Support and contact details
 for any questions or if any problem arises feel free to contact us @ mikelkarije@gmail.com
