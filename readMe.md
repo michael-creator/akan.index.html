@@ -1,19 +1,27 @@
-#MY FIRST WEBSITE
-Its a site where i publishe game sites, and also games, 06-07-2019
-By michael maina, gerg mataa, fridah makabi,john ndungu, kamau njoroge etc
-##Description
-This is a site where you can all games that you like by subcribing to this site you can get the games for free, and also tutorials for creating simple structured games with no sweat at all. And more iformation about apps to install for game development.
-##Setup/Installation Requirements
-    • download the app
-    • after that run directX on your computer
-    • then use WNRAR for extracting
-    • easy-to-understand and extract the app create your blocks then run the game.
-    • after that run the game.. and do enjoy
-##Known Bugs
-Installation of anti-virus is a must
-##Technologies Used
-HTML, CSS
-##Support and contact details
-for more information that you require you can contact us at: mikelkarije@gmail.com tel 0700405961
-##License
-*MIT * Copyright (c) 2019 MICHAEL MAINA
+# AKAN NAMES
+#### This site enables the user to find his/her akan name upon entering some details, 23-06-2019
+#### By **michael maina, john kamau, jane ngomi, magothe phyllis**
+## Description
+it was created to assit people find their akan names by running certain calculation the app comes with a detailed result that the user is looking for, it simplifiers the users work
+## Setup/Installation Requirements
+* creat an account with us and subscribe to our channel to get more info.
+* Download the app via the link
+* make sure your computer`s anti-virus is up-to date
+* install the app
+* format
+after installing access the setup for it to configure its settings to your computer,and simply enjoy
+## Known Bugs
+none so far
+## Technologies Used
+HTML
+CSS
+BOOTSTRAP
+JavaScript
+
+## Support and contact details
+for any questions or if any problem arises feel free to contact us @ mikelkarije@gmail.com
+tel 094897864847
+### License
+*MIT*
+Copyright (c) 2019 **MICHAEL MAINA **
+  
