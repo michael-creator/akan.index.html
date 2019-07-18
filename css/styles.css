@@ -1,15 +1,14 @@
 body {
-    background: linear-gradient( 70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('planets.jpg');
-
+    background-color: rebeccapurple;
  }
  h1 {
      text-align: center;
      font-size: 50px;
-     color:steelblue
+     color:steelblue;
  }
  form {
-     margin: 20px auto
+     margin: 20px auto;
      width: 320px;
      text-align: center;
-     color: bottom left, #33ccff 0%, #ff99cc 100%);
+     color: bottom left, #33ccff;
 }
